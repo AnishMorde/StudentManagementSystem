@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//student management project
+
 class Student {
     private int id;
     private String name;
